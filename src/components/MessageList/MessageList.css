@@ -1,0 +1,11 @@
+.messagetext {
+    cursor: pointer;
+};
+
+p.messagetext:hover {
+    color: #537FAC
+}
+
+.messagediv p.messagetext:hover {
+    color: #537FAC
+ }

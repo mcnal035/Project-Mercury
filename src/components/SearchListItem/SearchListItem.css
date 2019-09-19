@@ -1,0 +1,8 @@
+.tc:nth-child(even) {
+    background-color: #E5E7EE;
+}
+
+.tc:hover {
+    background-color: #C3CCF4;
+    cursor: pointer;
+}
